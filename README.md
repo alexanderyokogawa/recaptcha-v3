@@ -4,8 +4,8 @@
   "event": {
     "token": "TOKEN",
     "expectedAction": "USER_ACTION",
-    "siteKey": "6LekFvIqAAAAAOuQPqfPpPBkbZVfM5Ktp_q0Cd-4",
+    "siteKey": "6LeE-f8qAAAAAD2kKBwKlw8R4VlJn0u2lorfNUSw",
   }
 }
 
-AIzaSyCim12Oh0VKXS-N4Prfyy3Ki4zP6Y7g910
+6LeE-f8qAAAAABvlicsqKl84O5Yq7PLsaL-M2SZf
